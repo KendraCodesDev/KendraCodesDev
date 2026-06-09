@@ -1,3 +1,5 @@
+![Banner](https://raw.githubusercontent.com/KendraCodesDev/KendraCodesDev/main/KendraCodesDev.png)
+
 # 👋 Hi, I’m Kendra — Future Software Engineer
 
 Welcome to my GitHub! I’m a BSIT Cybersecurity student building a multi‑language engineering foundation across software development, security, and AI.
